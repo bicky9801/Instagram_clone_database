@@ -8,7 +8,7 @@
 A relational database case study that models the core of Instagram (users, photos, likes, comments, follows and hashtags) and answers real business questions with MySQL: **ad-campaign timing, user retention, bot detection, contest winners and hashtag performance.**
 
 <p align="center">
-  <img src="images/sql_analytics_insights.png" alt="Instagram Clone SQL Analytics Insights" width="900">
+  <img src="instagram_sql_analytics_linkedin.png" alt="Instagram Clone SQL Analytics Insights" width="900">
 </p>
 
 ---
@@ -51,7 +51,7 @@ This project has two parts:
 ## 🗂 Database Schema
 
 <p align="center">
-  <img src="images/er_diagram.png" alt="Instagram Clone ER Diagram" width="700">
+  <img src="instagram clone er digram.png" alt="Instagram Clone ER Diagram" width="700">
 </p>
 
 ### Tables
