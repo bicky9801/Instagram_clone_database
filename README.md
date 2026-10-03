@@ -318,7 +318,7 @@ A combined query (in `02_instagram_clone_challenges.sql`) uses nested subqueries
 
 ## 👤 Author
 
-**[Your Name]**
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+**[Bicky Kumar]**
+🔗 [LinkedIn](https://www.linkedin.com/in/bicky-kumar-3a2271232/) ·
 
 If you found this project useful, give it a ⭐ and connect with me on LinkedIn for more **SQL & Data Engineering case studies**.
